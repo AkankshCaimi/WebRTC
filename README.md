@@ -7,12 +7,12 @@ This project aims to explore the features and capabilities of WebRTC and provide
 
 ## Features
 1. Peer-to-peer audio and video communication.
-2. Video/audio toggle button
-3. Screen sharing to share your screen with other participants
-4. Recording functionality to capture audio and video streams
-5. Signaling server for establishing connections
-6. STUN and TURN servers for NAT traversal
-7. Simple and intuitive user interface
+2. Video/audio toggle button.
+3. Screen sharing to share your screen with other participants.
+4. Recording functionality to capture audio and video streams.
+5. Signaling server for establishing connections.
+6. STUN and TURN servers for NAT traversal.
+7. Simple and intuitive user interface.
 
 ## How to Run the Project
 To run the project, follow the instructions below:
